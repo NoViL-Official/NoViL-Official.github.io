@@ -1,0 +1,61 @@
+@charset 'utf-8';
+    
+.top-page {
+    text-align: center;
+    font-family: "edwardian script itc", "zapfino";
+    font-size: 2.5em;
+    margin: 0 25% 3.3%; 25%;
+}
+
+
+.link div {
+    display: flex;
+    width: 33%;
+    margin: 20px; padding: 8px; font-size: 12px;
+    margin-top: 0px;
+    background-color: #ffffff; 
+    color: #bb77ff;
+}
+
+.link {
+	display:flex;
+	width:100%;
+	list-style-type:none;
+    text-decoration: none;
+}
+
+.link a {
+    text-decoration: none;
+    margin: 0 auto;
+    color: #bb77ff;
+    font-family: "edwardian script itc", "zapfino";
+    font-size: 1.5em;
+}
+
+body {
+    background-color: #bb77ff;
+}
+
+#page-links {
+    font-family: "edwardian script itc", "zapfino";
+    text-align: center;
+}
+
+.headline {
+    font-family: "edwardian script itc", "zapfino";
+    font-size: 1.5em;
+}
+
+.mini-headline {
+    font-family: "edwardian script itc", "zapfino";
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+#engawa-button {
+    list-style: none;
+}
+
+p {
+    margin: 0;
+}
